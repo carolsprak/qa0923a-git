@@ -1,7 +1,8 @@
 /*TESTE*/
 /*NOVO TESTE*/
-/*TESTE A*/
-/*TESTE B*/
 /*TESTE C*/
 /*TESTE D*/
 /*TESTE E*/
+/*TESTE A*/
+/*TESTE B*/
+
